@@ -1,5 +1,3 @@
-package ApnaCollege.Arrays;
-
 import java.util.*;
 
 public class LinearSearch {
@@ -42,5 +40,7 @@ public class LinearSearch {
         } else {
             System.out.println("Key found at : " + result);
         }
+
+        sc.close();
     }
 }
