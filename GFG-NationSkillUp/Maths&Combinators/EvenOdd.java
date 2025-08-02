@@ -25,5 +25,7 @@ public class EvenOdd {
         naiveApproach(num);
         evenOddEfficient(num);
 
+        sc.close();
+
     }
 }
